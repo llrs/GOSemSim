@@ -25,7 +25,7 @@ output:
 [Let us know](https://github.com/GuangchuangYu/featured_img) if you have
 published using `GOSemSim` and your publication will be featured here.
 
-[![citation](https://img.shields.io/badge/cited%20by-273-blue.svg?style=flat)](https://scholar.google.com.hk/scholar?oi=bibs&hl=en&cites=9484177541993722322)
+[![citation](https://img.shields.io/badge/cited%20by-275-blue.svg?style=flat)](https://scholar.google.com.hk/scholar?oi=bibs&hl=en&cites=9484177541993722322)
 [![](https://img.shields.io/badge/ESI-Highly%20Cited%20Paper-blue.svg?style=flat)](http://apps.webofknowledge.com/InboundService.do?mode=FullRecord&customersID=RID&IsProductCode=Yes&product=WOS&Init=Yes&Func=Frame&DestFail=http%3A%2F%2Fwww.webofknowledge.com&action=retrieve&SrcApp=RID&SrcAuth=RID&SID=Y2CXu6nry8nDQZcUy1w&UT=WOS%3A000276045800023)
 
 <link rel='stylesheet' href=https://guangchuangyu.github.io/resume/css/morris.css>
@@ -41,13 +41,13 @@ published using `GOSemSim` and your publication will be featured here.
     height: 300px;
   }  
   </style>
-<div id="chart155b21fa8c31" class="rChart morris">
+<div id="chart3c1782bc965" class="rChart morris">
 
 </div>
 
 <script type='text/javascript'>
     var chartParams = {
- "element": "chart155b21fa8c31",
+ "element": "chart3c1782bc965",
 "width":            800,
 "height":            400,
 "xkey": "year",
@@ -72,7 +72,7 @@ published using `GOSemSim` and your publication will be featured here.
 },
 {
  "year": 2013,
-"cites":             42,
+"cites":             41,
 "pubid": "tuHXwOkdijsC" 
 },
 {
@@ -82,21 +82,21 @@ published using `GOSemSim` and your publication will be featured here.
 },
 {
  "year": 2015,
-"cites":             48,
+"cites":             49,
 "pubid": "tuHXwOkdijsC" 
 },
 {
  "year": 2016,
-"cites":             72,
+"cites":             67,
 "pubid": "tuHXwOkdijsC" 
 },
 {
  "year": 2017,
-"cites":             18,
+"cites":             25,
 "pubid": "tuHXwOkdijsC" 
 } 
 ],
-"id": "chart155b21fa8c31",
+"id": "chart3c1782bc965",
 "labels": "cites" 
 },
       chartType = "Bar"
@@ -139,8 +139,8 @@ Gene/Protein functional analysis
     Outcomes](http://dx.doi.org/10.1371/journal.pcbi.1004892). **PLOS
     Computational Biology**. 2016, 12(4):e1004892.
 -   [Crosstalk of dynamic functional modules in lung development of
-    rhesus macaques](http://dx.doi.org/10.1039/C5MB00881F%3E).
-    **Mol. Biosyst.**. 2016, 12:1342-1349.
+    rhesus macaques](http://dx.doi.org/10.1039/C5MB00881F%3E). **Mol.
+    Biosyst.**. 2016, 12:1342-1349.
 -   [Comparative transcriptomics reveals the conserved building blocks
     involved in parallel evolution of diverse phenotypic traits in
     ants](http://dx.doi.org/10.1186/s13059-016-0902-7). **Genome
